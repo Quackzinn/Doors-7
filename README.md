@@ -3,6 +3,7 @@
 **Windows 7, but Linux.**
 
 Windows, and Microsoft in general, sucks.
+
 Windows 7 was the **BEST OS EVER**, but it is old and unsafe.
 
 So I had a simple question:
