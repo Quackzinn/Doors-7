@@ -107,18 +107,20 @@ That's the project.
 
 ## Contributing
 
-DOORS 7 is currently a solo project, and there is a lot I still don't know.
+DOORS 7 is currently a solo project, and there is a lot I still have to learn.
 
-If you have experience with Linux internals, operating system development, desktop environments, graphical stacks, system programming, Wine, Windows compatibility, C/C++, build systems, or low-level Linux development, your knowledge could make a real difference here.
+If you have experience with Linux internals, operating system development, desktop environments, graphical stacks, system programming, Wine, Windows compatibility, C/C++, build systems, or low-level Linux development, I would genuinely appreciate your help.
 
-You don't need to take over the project. Code contributions are welcome, but so are technical reviews, architecture discussions, bug reports, testing, documentation, and simply pointing out when I'm doing something completely insane.
+You do not need to write code to contribute. Technical advice, architecture reviews, testing, bug reports, documentation, and simply explaining things that I do not understand yet can all make a real difference.
 
-If you know something that I don't, teach me.
+If you know something I don't, teach me.
 
-If you see a better way to implement something, tell me.
+If you see a better way to build something, tell me.
 
 If you want to build part of DOORS 7 with me, contribute.
 
-DOORS 7 started with a simple question. I don't expect to have all the answers myself.
+I am building this project to learn how an operating system actually comes together, but I know there are people who have spent years working on exactly the kinds of problems I am starting to encounter.
 
-Pull requests, issues, technical discussions, and contributions are welcome.
+If you are one of those people and would like to help, send me a DM on Discord: quackzin_
+
+Pull requests, issues, technical discussions, testing, documentation, and other contributions are welcome.
